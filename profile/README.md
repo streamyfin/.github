@@ -10,14 +10,14 @@ A Jellyfin client built with Expo, providing a seamless media streaming experien
 ### [Jellyfin Plugin Streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)
 A plugin for Jellyfin to integrate with Streamyfin, enhancing the functionality and providing additional features.
 
-### [Streamyfin Web](https://github.com/streamyfin/streamyfinweb)
-The official website for Streamyfin, offering detailed information and updates about our projects.
-
 ### [Optimized Versions Server](https://github.com/streamyfin/optimized-versions-server)
 A companion server program to transcode videos into a supported format before downloading, ensuring compatibility and optimal performance.
 
 ### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)
 A Discord bot designed to interact with the Streamyfin GitHub repository, streamline issue management, feature requests, and other project-related tasks.
+
+### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)
+The official website for Streamyfin, offering detailed information and updates about our projects.
 
 
 
