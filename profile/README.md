@@ -17,7 +17,7 @@ A companion server application that transcodes videos into supported formats bef
 The official site for comprehensive project details, updates, and documentation.
 
 ### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)  
-A GitHub-integrated bot to manage issues, feature requests, and project updates directly in Discord.
+A Discord bot for project updates, feature requests, reminders, and rule enforcement, with support links, smart replies, and tool integration.
 
 ### [Streamyfin Documentation](https://github.com/streamyfin/documentation)  
 Documentation for the Streamyfin projects, covering setup, usage, and reference materials.
