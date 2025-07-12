@@ -1,35 +1,41 @@
 # Streamyfin
 
-Welcome to Streamyfin! Streamyfin is a collection of projects aimed at enhancing your Jellyfin experience. Below you will find an introduction to our main projects.
+**Streamyfin is a collection of projects aimed at enhancing your Jellyfin experience. Below you will find an introduction to our main projects.**
 
 ## Projects
 
-### [Streamyfin](https://github.com/streamyfin/streamyfin)
-A Jellyfin client built with Expo, providing a seamless media streaming experience on iOS and Android devices.
+### [Streamyfin](https://github.com/streamyfin/streamyfin)  
+A modern Jellyfin client built with Expo, providing a seamless media streaming experience on iOS and Android devices.
 
-### [Jellyfin Plugin Streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)
-A plugin for Jellyfin to integrate with Streamyfin, enhancing the functionality and providing additional features.
+### [Jellyfin Plugin Streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)  
+A Jellyfin plugin that integrates with Streamyfin to provide enhanced functionality and expanded customizable options.
 
-### [Optimized Versions Server](https://github.com/streamyfin/optimized-versions-server)
-A companion server program to transcode videos into a supported format before downloading, ensuring compatibility and optimal performance.
+### [Optimized Versions Server](https://github.com/streamyfin/optimized-versions-server)  
+A companion server application that transcodes videos into supported formats before download, ensuring compatibility and optimal performance.
 
-### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)
-A Discord bot designed to interact with the Streamyfin GitHub repository, streamline issue management, feature requests, and other project-related tasks.
+### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)  
+The official site for comprehensive project details, updates, and documentation.
 
-### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)
-The official website for Streamyfin, offering detailed information and updates about our projects.
+### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)  
+A utility bot for updates, feature requests, and moderation within the Streamyfin community.
 
+### [Streamyfin Documentation](https://github.com/streamyfin/documentation)  
+Documentation for the Streamyfin projects, covering setup, usage, and reference materials.
 
-
+---
 
 ## Contributing
 
-We welcome contributions from the community! Please check out our contributing guidelines in each repository for more information on how to get involved.
+We welcome contributions from the community. Please refer to the guidelines in each repository to get involved.
 
 ## License
 
-Most of our projects are licensed under the Mozilla Public License 2.0. Please refer to the license file in each repository for detailed license information.
+Most projects are released under the Mozilla Public License 2.0. See the individual repositories for license details.
 
 ## Contact
 
-For any inquiries or support, please open an issue in the relevant repository or join our community on [Discord](https://discord.gg/aJvAYeycyY)
+Join our community on [Discord](https://discord.gg/aJvAYeycyY) or open an issue in the relevant repository to contribute, seek support, or submit proposals.
+
+## Disclaimer
+
+Streamyfin is strictly against piracy. All tools are intended for legal use with media you own or have rights to.
