@@ -6,7 +6,6 @@
   <a href="https://github.com/streamyfin/streamyfin/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=flat-square"></a>
   <img alt="Downloads" src="https://img.shields.io/github/downloads/streamyfin/streamyfin/total?style=flat-square">
   <a href="https://github.com/streamyfin/streamyfin/issues"><img alt="Issues" src="https://img.shields.io/github/issues/streamyfin/streamyfin?style=flat-square"></a>
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/streamyfin/streamyfin?style=flat-square">
   <a href="https://discord.gg/aJvAYeycyY"><img alt="Discord" src="https://img.shields.io/discord/your-server-id?style=flat-square&label=Discord"></a>
 </p>
 
@@ -48,5 +47,11 @@ Projects are typically licensed under the Mozilla Public License 2.0. See the li
 ## 📬 Contact
 
 For questions or support, open an issue in the appropriate repository or join our [Discord community](https://discord.gg/aJvAYeycyY).
+
+---
+
+## ⚖️ Disclaimer
+
+Streamyfin does not support piracy. It’s for streaming media you own. No content is provided, and piracy talk is not allowed on our platforms.
 
 
