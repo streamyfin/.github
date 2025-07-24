@@ -1,35 +1,57 @@
-# Streamyfin
+<p align="center">
+  <img src="https://raw.githubusercontent.com/streamyfin/.github/refs/heads/main/streamyfin-github-banner.png" alt="Streamyfin" width="100%">
+</p>
 
-Welcome to Streamyfin! Streamyfin is a collection of projects aimed at enhancing your Jellyfin experience. Below you will find an introduction to our main projects.
+<p align="center">
+  <a href="https://github.com/streamyfin/streamyfin/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=flat-square"></a>
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/streamyfin/streamyfin/total?style=flat-square">
+  <a href="https://github.com/streamyfin/streamyfin/issues"><img alt="Issues" src="https://img.shields.io/github/issues/streamyfin/streamyfin?style=flat-square"></a>
+  <a href="https://discord.gg/aJvAYeycyY"><img alt="Discord" src="https://img.shields.io/discord/1273259347689869413?style=flat-square&label=Discord"></a>
+</p>
 
-## Projects
+<h3 align="center"><em>A modern Jellyfin player and tools built to elevate your personal streaming experience</em></h3>
 
-### [Streamyfin](https://github.com/streamyfin/streamyfin)
-A Jellyfin client built with Expo, providing a seamless media streaming experience on iOS and Android devices.
+<hr style="border: none; border-top: 1px solid #ccc; margin: 24px 0;">
 
-### [Jellyfin Plugin Streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)
-A plugin for Jellyfin to integrate with Streamyfin, enhancing the functionality and providing additional features.
+## 🚀 Projects
 
-### [Optimized Versions Server](https://github.com/streamyfin/optimized-versions-server)
-A companion server program to transcode videos into a supported format before downloading, ensuring compatibility and optimal performance.
+### [Streamyfin](https://github.com/streamyfin/streamyfin)  
+A Jellyfin client built with Expo for seamless media streaming on iOS and Android.
 
-### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)
-A Discord bot designed to interact with the Streamyfin GitHub repository, streamline issue management, feature requests, and other project-related tasks.
+### [Streamyfin Jellyfin Plugin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)  
+A Jellyfin plugin that integrates directly with Streamyfin, adding expanded functionality and streamlined features.
 
-### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)
-The official website for Streamyfin, offering detailed information and updates about our projects.
+### [Optimized Versions Server](https://github.com/streamyfin/optimized-versions-server)  
+A companion server that transcodes videos into a supported format before downloading, ensuring compatibility and optimal performance.
 
+### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)  
+Streamlines project management in Discord by syncing issues, feedback, and more with the GitHub ecosystem.
 
+### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)  
+The official Streamyfin website, providing updates, documentation, and project overviews.
 
+---
 
-## Contributing
+## 🤝🏻 Contributing
 
-We welcome contributions from the community! Please check out our contributing guidelines in each repository for more information on how to get involved.
+Community contributions are encouraged. Refer to the contributing guidelines in each repository to get started.
 
-## License
+---
 
-Most of our projects are licensed under the Mozilla Public License 2.0. Please refer to the license file in each repository for detailed license information.
+## 📄 License
 
-## Contact
+Projects are typically licensed under the Mozilla Public License 2.0. See the license file in each repository for details.
+
+---
+
+## 📬 Contact
 
 For any inquiries or support, please open an issue in the relevant repository or join our community on [Discord](https://discord.gg/aJvAYeycyY)
+
+---
+
+## ⚠️ Disclaimer
+
+Piracy is not allowed in any form. Streamyfin is for streaming your own media. Piracy-related discussion is banned in our channels.
+
+---
