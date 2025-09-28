@@ -21,14 +21,14 @@ A Jellyfin client built with Expo for seamless media streaming on iOS and Androi
 ### [Streamyfin Jellyfin Plugin](https://github.com/streamyfin/jellyfin-plugin-streamyfin)  
 A Jellyfin plugin that integrates directly with Streamyfin, adding expanded functionality and streamlined features.
 
-### [Optimized Versions Server (Deprecated)](https://github.com/streamyfin/optimized-versions-server)  
-A companion server that transcodes videos into a supported format before downloading, ensuring compatibility and optimal performance.
-
 ### [Streamyfin Discord Bot](https://github.com/streamyfin/streamyfin-discord-bot)  
 Streamlines project management in Discord by syncing issues, feedback, and more with the GitHub ecosystem.
 
 ### [Streamyfin Website](https://github.com/streamyfin/streamyfinweb)  
 The official Streamyfin website, providing updates, documentation, and project overviews.
+
+### [Optimized Versions Server (Deprecated)](https://github.com/streamyfin/optimized-versions-server)  
+A companion server that transcodes videos into a supported format before downloading, ensuring compatibility and optimal performance.
 
 ---
 
