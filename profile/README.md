@@ -7,6 +7,7 @@
   <img alt="Downloads" src="https://img.shields.io/github/downloads/streamyfin/streamyfin/total?style=flat-square">
   <a href="https://github.com/streamyfin/streamyfin/issues"><img alt="Issues" src="https://img.shields.io/github/issues/streamyfin/streamyfin?style=flat-square"></a>
   <a href="https://discord.gg/aJvAYeycyY"><img alt="Discord" src="https://img.shields.io/discord/1273259347689869413?style=flat-square&label=Discord"></a>
+  <a href="https://www.reddit.com/r/JellyfinCommunity/"><img alt="JellyfinCommunity" src="https://img.shields.io/badge/Reddit-JellyfinCommunity-orange?style=flat-square&logo=reddit"></a>
 </p>
 
 <h3 align="center"><em>A modern Jellyfin player and tools built to elevate your personal streaming experience</em></h3>
