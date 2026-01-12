@@ -2,13 +2,9 @@
   <img src="https://raw.githubusercontent.com/streamyfin/.github/refs/heads/main/streamyfin-github-banner.png" alt="Streamyfin" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/streamyfin/streamyfin/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=flat-square"></a>
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/streamyfin/streamyfin/total?style=flat-square">
-  <a href="https://github.com/streamyfin/streamyfin/issues"><img alt="Issues" src="https://img.shields.io/github/issues/streamyfin/streamyfin?style=flat-square"></a>
-  <a href="https://discord.gg/aJvAYeycyY"><img alt="Discord" src="https://img.shields.io/discord/1273259347689869413?style=flat-square&label=Discord"></a>
-  <a href="https://www.reddit.com/r/JellyfinCommunity/"><img alt="JellyfinCommunity" src="https://img.shields.io/badge/Reddit-JellyfinCommunity-orange?style=flat-square&logo=reddit"></a>
-</p>
+<p align="center"><a href="https://github.com/streamyfin/streamyfin/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=flat-square"></a>&nbsp;<img alt="Downloads" src="https://img.shields.io/github/downloads/streamyfin/streamyfin/total?style=flat-square">&nbsp;<a href="https://github.com/streamyfin/streamyfin/issues"><img alt="Issues" src="https://img.shields.io/github/issues/streamyfin/streamyfin?style=flat-square"></a>&nbsp;<a href="https://discord.gg/aJvAYeycyY"><img alt="Streamyfin Discord" src="https://img.shields.io/badge/Discord-Streamyfin-blue?style=flat-square&logo=discord"></a>&nbsp;<a href="https://www.reddit.com/r/JellyfinCommunity/"><img alt="JellyfinCommunity" src="https://img.shields.io/badge/Reddit-JellyfinCommunity-orange?style=flat-square&logo=reddit"></a></p>
+
+
 
 <h3 align="center"><em>A modern Jellyfin player and tools built to elevate your personal streaming experience</em></h3>
 
